@@ -33,7 +33,7 @@ int main() {
 
     /* First the guy need put a string value*/
     printf("Enter string value: ");
-    gets(str);
+    fgets(str,sizeof(str),stdin);
 
     menu();
     scanf("%c",&enter);
