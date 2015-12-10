@@ -34,6 +34,7 @@ int main() {
     /* First the guy need put a string value*/
     printf("Enter string value: ");
     fgets(str,sizeof(str),stdin);
+    sscanf(str,"%s",str);
 
     menu();
     scanf("%c",&enter);
