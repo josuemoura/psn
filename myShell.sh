@@ -3,7 +3,7 @@
 
 ##########################
 # Fazer o download do simulador da Cisco Packet Trace
-wget http://www.labcisco.com.br/app/Cisco-PT-620.tar.gz
+wget http://www.labcisco.com.br/app/Cisco-PT-7x32.tar.gz
 
 # Descompactar o programa baixado
 tar xvzf Cisco-PT-620.tar.gz
