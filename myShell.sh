@@ -6,7 +6,8 @@
 wget http://www.labcisco.com.br/app/Cisco-PT-7x32.tar.gz
 
 # Descompactar o programa baixado
-tar xvzf Cisco-PT-620.tar.gz
+# - tar xvzf Cisco-PT-620.tar.gz
+tar xvzf Cisco-PT-7x32.tar.gz
 
 # Acessar o diretorio do programa
 cd PacketTracer62Student
